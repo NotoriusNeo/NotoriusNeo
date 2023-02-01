@@ -21,4 +21,4 @@ I'm a self-taught developer from Portugal 🇵🇹
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-404040.svg?style=for-the-badge&logo=sublime-text&logoColor=ff9800)&nbsp;
 
-[![NotoriusNeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotoriusNeo)](https://github.com/NotoriusNeo/github-readme-stats)
+[![NotoriusNeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotoriusNeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/NotoriusNeo/github-readme-stats)
