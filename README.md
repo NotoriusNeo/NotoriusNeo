@@ -8,7 +8,7 @@ I'm a self-taught developer from Portugal 🇵🇹
 
 - ❤️ I love writing code in Python and building fun scripts!
 
-- 💬 Ask me about anything [here](https://github.com/NotoriusNeo/NotoriusNeo/issues)!
+- 💬 Ask me about anything [here](https://github.com/NotoriusNeo/NotoriusNeo/issues)
 
 #### Languages:
 
@@ -21,4 +21,4 @@ I'm a self-taught developer from Portugal 🇵🇹
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
 <img src="https://img.shields.io/badge/Sublime%20Text-404040.svg?style=for-the-badge&logo=sublime-text&logoColor=ff9800" alt="Sublime Text">&nbsp;
 
-[![NotoriusNeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotoriusNeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/NotoriusNeo/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=NotoriusNeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Readme Stats">
